@@ -1,6 +1,8 @@
 <template>
   <div>
-    <h1>Directivas</h1>
+    <h1>Universidad Tecnologica de Tehuacan</h1>
+    <h2>APW</h2>
+    <h3>Grupo 4A</h3>
     <hr/>
     <h2>v.text</h2>
     <span v-text="'Hola desde la directiva v-text'"></span>
